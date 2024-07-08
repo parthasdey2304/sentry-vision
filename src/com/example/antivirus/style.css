@@ -1,0 +1,24 @@
+.root {
+    -fx-background-color: #f4f4f4;
+    -fx-padding: 10;
+}
+
+.label {
+    -fx-font-family: "Arial";
+    -fx-text-fill: #333;
+}
+
+.button {
+    -fx-background-color: #007bff;
+    -fx-text-fill: white;
+    -fx-padding: 10 20;
+    -fx-font-size: 14px;
+}
+
+.text-area {
+    -fx-font-family: "Courier New";
+    -fx-text-fill: #444;
+    -fx-padding: 10;
+    -fx-background-color: #fff;
+}
+
